@@ -1,5 +1,12 @@
 # House of Dice — what changed at the table
 
+## v0.2.1 — "The notice actually gets posted" (2026-07-10)
+
+- The management notice now reaches players who were here before the
+  house started posting notices. Which was everyone.
+- The number in the corner tells you which build you're on, not which
+  build your run remembers. Click it any time to reread the notices.
+
 ## v0.2.0 — "The night has a number" (2026-07-10)
 
 - **Every night has a number now.** The same seed deals the same night —
