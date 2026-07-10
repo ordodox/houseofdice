@@ -1,5 +1,13 @@
 # House of Dice — what changed at the table
 
+## v0.2.6 — "The front door sticks less" (2026-07-11)
+
+- **The night was re-tuned.** Gentler at the door. No kinder upstairs.
+- Prices changed. The dealer will not be taking questions.
+
+*Mid-run saves wake up under the new numbers. The house honors old
+debts. At new rates.*
+
 ## v0.2.5 — "Paperwork" (2026-07-10)
 
 - **A piece of paper has entered the building.** The house declines to
