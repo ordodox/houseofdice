@@ -1,5 +1,15 @@
 # House of Dice — what changed at the table
 
+## v0.2.5 — "Paperwork" (2026-07-10)
+
+- **A piece of paper has entered the building.** The house declines to
+  elaborate.
+- Housekeeping under the felt: every number the house runs on now lives
+  in one ledger of its own. Same game, tidier books. You won't notice.
+  That's the point.
+
+*Mid-run saves carry over, as always. The house honors old debts.*
+
 ## v0.2.4 — "The house keeps the tapes" (2026-07-10)
 
 - **Old nights can be reviewed.** Every run that makes the records from
