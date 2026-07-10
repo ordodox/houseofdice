@@ -1,5 +1,14 @@
 # House of Dice — what changed at the table
 
+## v0.2.2 — "Forgeries, priced accordingly" (2026-07-10)
+
+- **Loaded Face will copy a ★ again** — the dealer relented. But forging
+  a scarce thing costs like one: the more wilds you own, the more a
+  ★-copy runs. An honest copy of a six stays $4, always.
+- **Both prices are on the tag** before you choose — the shelf reads
+  "$4 · ★ $9", and the dealer quotes you again while you pick the die.
+  The house is many things. Coy about money isn't one.
+
 ## v0.2.1 — "The notice actually gets posted" (2026-07-10)
 
 - The management notice now reaches players who were here before the
