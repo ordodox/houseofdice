@@ -1,10 +1,23 @@
 # House of Dice — what changed at the table
 
+## v0.2.3 — "Management has had a word" (2026-07-10)
+
+- **The dealer was rounding in his own favor.** Every Wild Face since
+  the prices started climbing charged a dollar over the number on the
+  shelf — in a bad moment it could even put you in the red. Fixed: you
+  pay exactly what the tag says. Management apologizes for nothing,
+  but the books are correct now.
+- **You can think better of it.** Buying a charm with a full shelf no
+  longer commits you on the spot — the "make room" choice can be
+  walked away from (button, ×, or Esc). Nothing is paid until you
+  actually let something go. Backing out of a regular's charm returns
+  you to the choice, cash option included.
+
 ## v0.2.2 — "Forgeries, priced accordingly" (2026-07-10)
 
-- **Loaded Face will copy a ★ again** — the dealer relented. But forging
-  a scarce thing costs like one: the more wilds you own, the more a
-  ★-copy runs. An honest copy of a six stays $4, always.
+- **Copying a ★ with a Loaded Face now costs like the scarce thing it
+  forges** — the more wilds you own, the more a ★-copy runs. An honest
+  copy of a six stays $4, always.
 - **Both prices are on the tag** before you choose — the shelf reads
   "$4 · ★ $9", and the dealer quotes you again while you pick the die.
   The house is many things. Coy about money isn't one.
