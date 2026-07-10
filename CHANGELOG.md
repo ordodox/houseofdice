@@ -1,5 +1,18 @@
 # House of Dice — what changed at the table
 
+## v0.2.4 — "The house keeps the tapes" (2026-07-10)
+
+- **Old nights can be reviewed.** Every run that makes the records from
+  now on keeps its full story — expand a records row and "Review the
+  night" replays it round by round: the dice, the holds, the charms
+  firing, what you bought between hands. Records from before tonight
+  were kept the old way; the house didn't tape those.
+- **Reviews can leave the building.** "Save as page" on any review
+  downloads it as a single file — send a friend the whole night, no
+  game required. Pairs well with sharing the seed.
+- The dealer no longer greets you with an empty speech bubble when you
+  come back mid-shopping. He says something. He always says something.
+
 ## v0.2.3 — "Management has had a word" (2026-07-10)
 
 - **The dealer was rounding in his own favor.** Every Wild Face since
