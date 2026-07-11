@@ -1,5 +1,24 @@
 # House of Dice — what changed at the table
 
+## v0.2.8 — "The arrangement" (2026-07-11)
+
+- **Some tables can be folded.** A certain charm lets you buy your way
+  out of a round going wrong: pay, the table looks away, and the night
+  simply continues. Nothing is paid out — you didn’t win, you paid.
+- **Deciding late is the expensive part.** Fold early and the dealer
+  offers a discount for the good read. Wait until the last write and
+  it costs the full price. He does arithmetic, not favors.
+- **Even the regulars have a price.** Double, at their chairs. They
+  take it without counting it — and leave nothing behind.
+- **Some things are not for sale.** The last table of the night holds
+  its own paper. And upstairs, money is not what changes hands.
+- **Where to find it? Not on any winner’s table.** Arrangements are
+  made where the house does its quieter business. Watch the drawer.
+  And check lost property — its previous owner stopped needing it.
+
+*The house checked the books: the odds of the night did not move.
+This is a matter of style. The house respects style.*
+
 ## v0.2.7 — "The back office" (2026-07-11)
 
 - **The house takes requests now.** A shared link can deal more than a
