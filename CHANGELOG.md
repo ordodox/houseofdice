@@ -1,5 +1,27 @@
 # House of Dice — what changed at the table
 
+## v0.2.9 — "The first playtests speak" (2026-07-12)
+
+- **The deed got scarcer.** A regular sells his piece once a night —
+  the whole deed no longer assembles off the regulars alone. One piece
+  per source; the house does not repeat itself.
+- **The Owner asks less, and means it.** The fight upstairs demands
+  three times the natural curve, not five. Every playtest that reached
+  the door died against the old number; now the door is the hard part
+  and the fight is a fight.
+- **First Instinct counts to two.** Unspent rerolls beyond the second
+  no longer pay. The first thought was correct; the sixth was greed.
+- **The ink runs thinner.** A reopened ledger entry pays three quarters.
+  The stamped-Chance printing press still prints — the paper is just
+  worth what reopened paper is worth.
+- **The house remembers every night now.** A recent-nights shelf under
+  the records keeps your last ten runs — the losses too. Any reviewed
+  night can be downloaded as the full report, and a saved page carries
+  its whole trace inside it.
+- **Every review states its table.** Seed and the version the run was
+  born under, right in the summary — no more guessing which rules dealt
+  the night.
+
 ## v0.2.8 — "The arrangement" (2026-07-11)
 
 - **Some tables can be folded.** A certain charm lets you buy your way
