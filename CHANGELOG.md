@@ -1,5 +1,25 @@
 # House of Dice — what changed at the table
 
+## v0.2.7 — "The back office" (2026-07-11)
+
+- **The house takes requests now.** A shared link can deal more than a
+  seed: it can bend the numbers — targets, prices, payouts — and the
+  night plays out under those house rules for whoever opens it. The
+  table wears a gold **CUSTOM RULES** notice all night; click it for
+  the fine print, next to what the house would normally charge.
+- **Records tell the truth.** A night under house rules goes on the
+  board as one — tagged, itemized, stamped into the review and the
+  report. The house does not launder results.
+- **Links knock first.** Following a shared night while yours is still
+  going now asks — sit back down, or take the dare. Nothing is lost
+  until you choose.
+- **The back office is open. Quietly.** Somewhere behind the house
+  rules card, management keeps a door. Behind it: every number the
+  house runs on, editable, and a fresh deck. Deal it, or pocket it as
+  a link. The house will allow it. Once.
+
+*Mid-run saves carry over. Custom nights wake up custom.*
+
 ## v0.2.6 — "The front door sticks less" (2026-07-11)
 
 - **The night was re-tuned.** Gentler at the door. No kinder upstairs.
