@@ -1,5 +1,14 @@
 # House of Dice — what changed at the table
 
+## v0.3.0 — "The house gets a wardrobe" (2026-07-12)
+
+- **Nothing at your table changed.** Every deal, price, and payout is
+  the same to the byte — the house checked, twice, against its own books.
+- **Under the felt, the game learned to wear other clothes.** The words
+  now live apart from the works. The curious can try `?theme=dungeon` —
+  a crypt: every round an enemy, the target its HP, the prices in teeth.
+  Same dice. Same odds. Older light.
+
 ## v0.2.10 — "The stamp learns arithmetic" (2026-07-12)
 
 - **The stamp learned arithmetic.** Each level already inked makes the
