@@ -1,5 +1,14 @@
 # House of Dice — what changed at the table
 
+## v0.2.10 — "The stamp learns arithmetic" (2026-07-12)
+
+- **The stamp learned arithmetic.** Each level already inked makes the
+  next Ledger Stamp dearer. The first one costs what it always cost;
+  the tenth costs what a tenth stamp is worth to the kind of person
+  who buys ten.
+- **The Notary keeps his appointment.** One back-room table per night,
+  guaranteed. Whether you have his price is your business.
+
 ## v0.2.9 — "The first playtests speak" (2026-07-12)
 
 - **The deed got scarcer.** A regular sells his piece once a night —
