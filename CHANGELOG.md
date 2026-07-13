@@ -1,5 +1,16 @@
 # House of Dice — what changed at the table
 
+## v0.4.1 — "One per patron" (2026-07-13)
+
+- **Lost Property honors a full shelf.** The hatch no longer greys out when
+  you already carry five charms — claim, and something of yours goes back
+  through it instead. Changing your mind costs nothing; the attendant
+  doesn't look up either way.
+- **Old nights say so.** Sitting back down at a run dealt under an earlier
+  build, the table now tells you — "this night was dealt under v0.2.6, it
+  plays out under its own rules." Your save always worked this way; now it
+  admits it.
+
 ## v0.4.0 — "Tonight's Table" (2026-07-13)
 
 - **The dealer keeps a special table now.** Every day deals one night — the
