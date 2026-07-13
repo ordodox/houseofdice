@@ -1,5 +1,24 @@
 # House of Dice — what changed at the table
 
+## v0.5.0 — "New regulars" (2026-07-14)
+
+- **Four new faces work the floor.** The Proofreader lays a ruler across
+  your ledger — nothing gets rewritten at her table. The Regular charges
+  for instinct — every reroll you don't spend costs points at write time.
+  The Critic pays half for Chance and the of-a-kinds; show him structure.
+  And The Rake draws a cut of your cash across the felt, every turn,
+  without counting it.
+- **The pools outgrew the chairs.** There are more keepers now than seats
+  in a night. Some stay home; the veiled map still shows only the weight
+  of what's waiting, so you can no longer be sure which of a class you'll
+  meet. Plan for the family, not the face.
+- **Last Call joins the shelf.** One more turn at this table, held until
+  you need it. The dealer pretends not to notice the clock. Fifteen
+  entries in one act has always been possible; now it's plannable.
+- **Old seed links deal new nights.** New chairs and new stock draw their
+  luck differently — a seed shared before tonight replays as a different
+  evening. The house apologizes to no one, as ever.
+
 ## v0.4.2 — "Exact change" (2026-07-13)
 
 - **The till learned to say no.** Arming a die-picker and then shopping
