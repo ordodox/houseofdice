@@ -1,5 +1,25 @@
 # House of Dice — what changed at the table
 
+## v0.4.0 — "Tonight's Table" (2026-07-13)
+
+- **The dealer keeps a special table now.** Every day deals one night — the
+  same night for everyone who sits down to it, wherever they sit. Your first
+  sitting is the official one; revenge is allowed, and marked. One tap on the
+  settle screen shares the card — spoiler-light, group-chat sized, with a
+  link that deals the same night fresh for whoever thinks they'd have played
+  it better.
+- **The keepers formed weight classes.** The light company works the early
+  acts, the heavier ones wait deeper in, and the House still takes the last
+  chair. The map now keeps their confidence: tonight's keeper shows face and
+  rule, the rest of the evening shows only a veiled portrait and the weight
+  of what's waiting.
+- **Old seed links deal new nights.** The new seating draws its luck
+  differently, so a seed shared before tonight replays as a different
+  evening. The night you shared is gone; the house apologizes to no one.
+- **The back office grew more dials.** Nearly every number the house keeps
+  is now a house rule you can bend — and one new rule for the brave:
+  `bosses.revealHorizon = 0` plays the whole night blind.
+
 ## v0.3.0 — "The house gets a wardrobe" (2026-07-12)
 
 - **Nothing at your table changed.** Every deal, price, and payout is
