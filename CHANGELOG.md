@@ -1,5 +1,17 @@
 # House of Dice — what changed at the table
 
+## v0.4.2 — "Exact change" (2026-07-13)
+
+- **The till learned to say no.** Arming a die-picker and then shopping
+  around could let the pick go through on money you no longer had — the
+  house was quietly extending credit. No longer: your funds are checked
+  when the die is picked, not when the item was armed.
+- **The Ledger Stamp quotes its real price.** It was charging tomorrow's
+  price for today's stamp — every stamp cost more than the shelf tag said.
+  The tag and the till agree now.
+- **"Review the night" hears fresh runs.** The recent shelf only answered
+  for older nights; a night finished minutes ago now opens like any other.
+
 ## v0.4.1 — "One per patron" (2026-07-13)
 
 - **Lost Property honors a full shelf.** The hatch no longer greys out when
