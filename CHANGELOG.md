@@ -1,5 +1,14 @@
 # House of Dice — what changed at the table
 
+## v0.6.1 — "Turned-out pockets" (2026-07-17)
+
+- **You can see your pockets now.** At the counter — and at the "?"
+  tables — what you're holding shows above the shelf, next to your charms:
+  each held item, each empty loop. The shelf plays fair in return: it
+  says "one in your pocket already" when you're about to double up, and
+  admits when your pockets are full instead of letting you find out the
+  hard way.
+
 ## v0.6.0 — "Re-bound" (2026-07-17)
 
 - **Some feats no longer go unwitnessed.** The house has always kept one
