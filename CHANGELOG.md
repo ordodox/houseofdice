@@ -1,5 +1,14 @@
 # House of Dice — what changed at the table
 
+## v0.8.1 — "Your call" (2026-07-18)
+
+- **The house asks once.** The first time a run ends now, the count room
+  puts the choice in front of you plainly: let the house remember your
+  table across nights, keep the count anonymous as it already is, or tell
+  it to count you out entirely. One card, one time — and whatever you pick,
+  the count room stays open to change your mind. If you'd already made the
+  call, the house doesn't ask again.
+
 ## v0.8.0 — "The count room" (2026-07-17)
 
 - **The house counts its tables now.** When a run settles, a slip goes to
