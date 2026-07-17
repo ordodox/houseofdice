@@ -1,5 +1,22 @@
 # House of Dice — what changed at the table
 
+## v0.8.0 — "The count room" (2026-07-17)
+
+- **The house counts its tables now.** When a run settles, a slip goes to
+  the count room: how the night ended, how far it got — no names, no
+  faces, nothing that ties one night to the next. A quiet line at the
+  bottom of every settle says so, and tapping it opens the count room,
+  where the actual slip sits under glass: every byte the house sends,
+  readable before you decide anything. "Count me out" is right there, and
+  the house honors it without argument.
+- **Say the word, and the house remembers your table.** An offer, not a
+  condition: volunteer an anonymous table mark and the house can watch a
+  table grow across many nights — still no name, no face. Changed your
+  mind? *The house forgets*, and it does: here and in the back room both.
+- **A note for the house.** The report desk at the end of the night is
+  gone; in its place, one line. Write what the night was like and it rides
+  the same slip to management. Your own shelf keeps a copy with the run.
+
 ## v0.7.0 — "The wall" (2026-07-17)
 
 - **The house keeps a wall now.** Your records grew a second page: a wall
