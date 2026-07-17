@@ -1,5 +1,33 @@
 # House of Dice — what changed at the table
 
+## v0.6.0 — "Re-bound" (2026-07-17)
+
+- **The Full Book gets its moment.** Fill all fifteen entries in one act
+  and the house now shows you what that means: the book re-binds before
+  your eyes, every entry levels, the fee is paid, the deed piece is earned.
+  On the act's final round the house murmurs how many lines remain. It
+  was always worth this much; now you'll know.
+- **The Landlady takes the middle table.** Your charms don't work at her
+  door — the rack stays on, the rack stays quiet. Bring dice, not jewelry.
+- **The Regular moved deeper into the night.** He no longer wastes his
+  chair on acts where nobody's instinct is worth taxing — act 4 at the
+  earliest now.
+- **The Pawnbroker buys anything.** Plain dice at the old price; glass
+  and gold at a premium — he knows what they're worth. He'll also buy
+  your last die, if you insist. The money is real. The game, unfortunately,
+  was dice.
+- **The night explains itself better.** Turns are pips you can count (Last
+  Call's extra turn joins the row, cut square). A loss one write short
+  tells you the bar was still open. The night review speaks your table's
+  language everywhere — the crypt included, where five keepers and the
+  Passing Bell finally learned their own tongues.
+- **Stale bundles can't haunt live runs.** A cached old build can no
+  longer wake up mid-night and deal retired rules onto your save — saves
+  are stamped and checked now. Existing mid-run saves retire once,
+  politely, with the update.
+- **Old seed links deal new nights** (a chair moved, a keeper seated,
+  the counter restocked). The house apologizes to no one, as ever.
+
 ## v0.5.0 — "New regulars" (2026-07-14)
 
 - **Four new faces work the floor.** The Proofreader lays a ruler across
