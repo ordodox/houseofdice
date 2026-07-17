@@ -1,5 +1,27 @@
 # House of Dice — what changed at the table
 
+## v0.7.0 — "The wall" (2026-07-17)
+
+- **The house keeps a wall now.** Your records grew a second page: a wall
+  of plaques, one for every feat worth hanging. First loss, first back
+  room, a clean run through all eight acts — and a chair for every keeper
+  you've ever put away, filling in as you meet them. Some hang empty and
+  dare you. A couple aren't on the wall at all until you've done the thing.
+  Earn one mid-night and the house says so, right where your eyes are, and
+  the records desk keeps them next to the ledger — on their own tab, so the
+  shelf doesn't crowd them.
+- **A new regular takes a late chair: the Leveler.** He spreads your dice
+  in a neat row and slides every fourth one aside. No face counts past its
+  third die at his table — three of a kind is a hand, he'll tell you, and
+  five is showing off. Anyone who's stacked a single number into a cannon
+  will find it firing blanks, deep in the night where he sits.
+- **The Assayer takes a stool at the end of the bar.** A charm for the gold
+  players at last: every gold die that scores now adds to the write, not
+  just the pile — he bites each one before it counts, and they keep
+  passing. Gold was always good money. Now it's good paper too.
+- **Old seed links deal new nights** (a keeper seated, a charm on the
+  shelf). The house apologizes to no one, as ever.
+
 ## v0.6.1 — "Turned-out pockets" (2026-07-17)
 
 - **You can see your pockets now.** At the counter — and at the "?"
