@@ -1,5 +1,20 @@
 # House of Dice — what changed at the table
 
+## v0.8.3 — "Second thoughts" (2026-07-18)
+
+- **Are you sure?** On the last write of a round, if you pick an entry that
+  *won't* take the round while another open one would, the house stops you
+  once to ask. Easy to miss that you're down to your final turn and throw a
+  winnable round away on the wrong box — now it checks. (Only when a win was
+  actually on the table; it never nags otherwise.)
+- **Your best runs now actually count.** A long night — especially a full
+  clear — makes a big record, and the count room was quietly turning the
+  biggest ones away at the door (they outgrew what the browser would send in
+  one go). Fixed: the whole run gets through now, however far it ran. And if a
+  send ever fails — a dropped connection, a closed tab — the game holds onto
+  it and tries again next time you play. If you've cleared the house and
+  wondered why it didn't show, this was why.
+
 ## v0.8.2 — "For your own good" (2026-07-18)
 
 - **The set bonus says its name.** Fill the upper section — Ones through
