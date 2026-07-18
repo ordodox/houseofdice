@@ -1,5 +1,26 @@
 # House of Dice — what changed at the table
 
+## v0.8.2 — "For your own good" (2026-07-18)
+
+- **The set bonus says its name.** Fill the upper section — Ones through
+  Sixes, no zeros — and the house has always paid a bonus for it. Now the
+  ledger tells you the moment it lands: the entry that closes the set reads
+  *"with the set,"* win or not, so the reward you just earned doesn't slip
+  by unremarked.
+- **Tidier tables.** Small housekeeping: your pockets no longer clutter the
+  "?" tables where they were never in play, and the record book's upper
+  tally only credits a bonus the house actually paid.
+- **A favor, if you're up for it.** The house counts its tables —
+  anonymously, no names, no faces (see v0.8.0). The more nights it sees, the
+  better it can tune the odds. So if you're willing: leave the count on, or
+  let the house remember your table across nights. Your call, always —
+  "count me out" is one tap away, and the count room shows you every byte
+  before you decide.
+- **Soon: the house shows its numbers.** A public tally of how the room
+  *really* does — win rates, how far the nights get, the high scores, who's
+  made it upstairs to the Owner. No names, no faces, just the count. Watch
+  this space.
+
 ## v0.8.1 — "Your call" (2026-07-18)
 
 - **The house asks once.** The first time a run ends now, the count room
