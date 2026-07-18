@@ -1,5 +1,12 @@
 # House of Dice — what changed at the table
 
+## v0.8.4 — "Reconnect the wire" (2026-07-18)
+
+- **The count room is actually plugged in again.** Everything 0.8.3 promised
+  about your runs reaching the house was true in the game — but the last couple
+  of builds shipped with the wire to the count room unplugged, so nothing was
+  getting through. Reconnected. (No change to how you play.)
+
 ## v0.8.3 — "Second thoughts" (2026-07-18)
 
 - **Are you sure?** On the last write of a round, if you pick an entry that
