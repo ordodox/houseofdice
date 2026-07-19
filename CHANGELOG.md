@@ -1,5 +1,13 @@
 # House of Dice — what changed at the table
 
+## v0.11.0 — "The dealer buys regrets" (2026-07-20)
+
+- **Sell a charm back.** A new standing service at the counter: *Sell a
+  charm, +$2*. Tap it, pick the chip, and the charm is gone for the night —
+  the dealer pays flat, asks no questions, and doesn't resell regrets. A
+  blind pick doesn't brick your run anymore; whether it was *worth* $2 is
+  between you and the shelf.
+
 ## v0.10.0 — "The night doubles down" (2026-07-20)
 
 - **Some nights deal two rules.** About one night in five now comes with a
