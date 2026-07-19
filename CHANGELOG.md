@@ -1,5 +1,12 @@
 # House of Dice — what changed at the table
 
+## v0.9.1 — "New workshop, same table" (2026-07-19)
+
+- **Nothing at your table moved.** The house changed workshops behind the
+  scenes — the game is built from a new home now, on machinery shared with
+  games yet to come. Same rooms, same dice, same odds, same everything. If
+  you can spot a difference, we owe you a drink.
+
 ## v0.9.0 — "Change of rooms" (2026-07-19)
 
 - **Pick your room.** The house keeps more than one room, and now you choose
