@@ -1,5 +1,16 @@
 # House of Dice — what changed at the table
 
+## v0.9.0 — "Change of rooms" (2026-07-19)
+
+- **Pick your room.** The house keeps more than one room, and now you choose
+  which you play in — a new room button (◑) up top opens a picker to switch
+  between the den and the dungeon. Change it whenever you like, even mid-run:
+  it's the same night, dealt exactly the same, only the skin changes. Your
+  seed, your dice, your luck — all untouched.
+- **A tidier top bar.** The run readouts (act, bag, money) are now framed as
+  one group, and the controls are grouped by kind — a small cleanup for
+  clarity.
+
 ## v0.8.4 — "Reconnect the wire" (2026-07-18)
 
 - **The count room is actually plugged in again.** Everything 0.8.3 promised
