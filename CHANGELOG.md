@@ -1,5 +1,27 @@
 # House of Dice — what changed at the table
 
+## v0.10.0 — "The night doubles down" (2026-07-20)
+
+- **Some nights deal two rules.** About one night in five now comes with a
+  second house rule on top of the first — a welcoming night with the taxman
+  in, a crowded night short on sixes. A quiet night is still just quiet.
+  Both rules show under the top bar, and both show in the run review.
+- **Three new night rules.** *An open bar* — one more reroll every turn, on
+  the house. *Last orders* — one reroll a turn; make it count. *The sixes
+  never came* — the shipment ran short, and every 6 on your dice rolled
+  over to a 1. The shop can still carve new ones, if you pay.
+- **The night can bend the numbers, your rules still win.** Night rules may
+  now adjust the house numbers for the length of the run (that's how the
+  bar pours the extra reroll). If your own house-rule link touches the same
+  number, yours wins — a challenge link plays exactly as written.
+- **Plaques judge you, not the night.** The untouched-bag plaques now
+  measure your dice against what the night dealt you: when the house grinds
+  your sixes down at the door, that's the house's doing, and a bare-handed
+  win still hangs the plaque.
+- **The table was cleared once.** The save format changed for the rule
+  lists: a night left mid-run on an older version won't resume — the next
+  visit simply deals fresh. Records, plaques, and history all carry over.
+
 ## v0.9.2 — "The chairs are counted" (2026-07-19)
 
 - **Tonight's Table knows its crowd.** The nightly offer now says how many
