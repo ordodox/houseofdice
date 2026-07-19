@@ -1,5 +1,13 @@
 # House of Dice — what changed at the table
 
+## v0.9.2 — "The chairs are counted" (2026-07-19)
+
+- **Tonight's Table knows its crowd.** The nightly offer now says how many
+  sat tonight — "14 sat tonight's table." A number, never names: the same
+  anonymous day-count the stats board already keeps, now visible where it
+  matters. The line only appears when the count room answers; playing
+  offline or from disk simply keeps it quiet.
+
 ## v0.9.1 — "New workshop, same table" (2026-07-19)
 
 - **Nothing at your table moved.** The house changed workshops behind the
