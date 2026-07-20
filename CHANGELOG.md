@@ -1,5 +1,33 @@
 # House of Dice — what changed at the table
 
+## v0.12.0 — "The till opens" (2026-07-20)
+
+- **Tap your money.** The $ in the header is a button now, and behind it
+  sits the till: tonight's money story, round by round — payouts in (with
+  the full breakdown on hover), spends out, and the balance every move
+  left you with. Money the record can't itemize shows itself honestly as
+  small change instead of vanishing. The crypt keeps coffers instead.
+- **Event money is on the record.** A choice that moved cash now says how
+  much, right on the run's history.
+- The header's icon buttons travel as one group when the window narrows —
+  no more lone `?` on its own row.
+
+## v0.11.5 — "The counter shows its buttons" (2026-07-20)
+
+- **The header's readouts finally look pressable.** Act, score, and bag
+  always opened the map, the history, and the bag — but nothing said so.
+  The run readout is now a segmented counter: each tappable cell sits in
+  the house's own button chrome (dark fill, gold hairlines), and the
+  money stays the frame's one bare gold number. Picked side-by-side at
+  the table, desktop and phone.
+
+## v0.11.4 — "The books close on the old script" (2026-07-20)
+
+- The house's records machinery now reads only the current book format.
+  Nights recorded by very old versions can't be reviewed anymore — the
+  review says so politely instead of guessing. Everything recorded by any
+  recent version is untouched.
+
 ## v0.11.3 — "Same safe, new lock" (2026-07-20)
 
 - Nothing at the table changes. Under the hood, the way your run survives
