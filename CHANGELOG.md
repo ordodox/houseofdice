@@ -1,5 +1,20 @@
 # House of Dice — what changed at the table
 
+## v0.11.1 — "The den fits your pocket" (2026-07-20)
+
+- **Your score rides the top bar.** The night's running total now sits in
+  the header next to the bag — you always know what the run is worth. Tap
+  it and the history opens with the whole story so far.
+- **The counter fits a phone.** The dealer's services — new stock, retire,
+  sell a charm, back to the table — used to walk off the right edge of a
+  phone screen. They now share it in tidy, even rows.
+- **A full bag shows every die.** Ten dice at the counter wrap into rows
+  you can actually read (and tap), instead of being crushed into one line.
+- **The room stays the room.** Browsers with a forced "dark mode" (Brave's
+  Night Mode, Chrome's auto-dark) were repainting the den — a white dealer,
+  a muddy ledger. The den now declares its own darkness, and they leave the
+  lamp alone.
+
 ## v0.11.0 — "The dealer buys regrets" (2026-07-20)
 
 - **Sell a charm back.** A new standing service at the counter: *Sell a
