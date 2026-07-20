@@ -1,5 +1,17 @@
 # House of Dice — what changed at the table
 
+## v0.11.2 — "The counter holds still" (2026-07-20)
+
+- **The dealer's services stand still.** Arming *retire a die* or *sell a
+  charm* used to shrink the button and drag the whole row around; now the
+  armed service just lights up, and nothing at the counter moves while you
+  choose. The dealer's patter swaps without shoving the shelf around,
+  either.
+- **"Back to the table" is always in reach.** On short screens the way out
+  of the shop sat below the fold, a scroll away every single visit. The
+  services row now rides the bottom of the screen whenever the counter
+  runs taller than it.
+
 ## v0.11.1 — "The den fits your pocket" (2026-07-20)
 
 - **Your score rides the top bar.** The night's running total now sits in
