@@ -1,5 +1,12 @@
 # House of Dice — what changed at the table
 
+## v0.11.3 — "Same safe, new lock" (2026-07-20)
+
+- Nothing at the table changes. Under the hood, the way your run survives
+  a closed tab now runs on the shared engine's machinery — proven
+  byte-for-byte identical to the old code, so the run you have going
+  keeps resuming exactly as before.
+
 ## v0.11.2 — "The counter holds still" (2026-07-20)
 
 - **The dealer's services stand still.** Arming *retire a die* or *sell a
