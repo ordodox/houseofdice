@@ -1,5 +1,40 @@
 # House of Dice — what changed at the table
 
+## v0.13.1 — "The purse at the counter" (2026-07-21)
+
+- **Your money follows you into the shop.** The counter's action bar —
+  already riding the bottom of the screen — now carries the same bare
+  gold figure the header wears, so browsing the stock never means
+  scrolling back up to check what's left. Tap it for the till, as ever.
+
+## v0.13.0 — "The dealer coaches the first hand" (2026-07-21)
+
+The stranger's-eyes pass: everything a first-time player hits in their
+first ten minutes, found by auditing the game cold on a phone
+(design/STRANGER_AUDIT.md).
+
+- **The dealer coaches a device's very first round.** Hold, write, ink —
+  one line per beat, through the ordinary speech bubble, in the ordinary
+  voice. From round 2 the banter takes back over.
+- **Tonight's bend is posted over the table.** A night rule (one reroll,
+  no sixes…) used to announce itself only at the top of the page — far
+  from the button it changes. It now also sits in the score card, where
+  the turn is actually played. The house rules mention that bends exist.
+- **The rules speak touch to touchscreens.** Phones no longer get the
+  keyboard shortcuts sermon; they're told to tap dice and tap the ledger.
+- **Windows hold the table still.** Scrolling a modal no longer scrolls
+  the table behind it (closing used to drop you mid-page), and a tap on
+  the dim backdrop closes the read-only windows — rules, till, records,
+  history, map, bag.
+- **The till opens with the stake.** The $8 you sit down with is the
+  book's first line now, not a mystery.
+- **Small honesty at the counter.** The action bar's backdrop is solid
+  (card text no longer bleeds through while scrolling), and the bag
+  display no longer wears last turn's HELD tag — inventory, not table.
+- **The face strips wait until they mean something.** Five identical
+  1·2·3·4·5·6 strips said nothing; they now appear the moment any die's
+  faces differ from plain.
+
 ## v0.12.0 — "The till opens" (2026-07-20)
 
 - **Tap your money.** The $ in the header is a button now, and behind it
