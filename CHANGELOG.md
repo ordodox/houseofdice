@@ -1,5 +1,21 @@
 # House of Dice — what changed at the table
 
+## v0.14.0 — "The empty chair" (2026-07-22)
+
+- **Tonight's Table keeps a chair for last night's you.** Finish the
+  official sitting and the house files the whole run away. Sit down at
+  tomorrow's table and it's there — a quiet line over the felt showing
+  where that run stood at your point in the night, and who's ahead.
+  Beat your own ghost, or lose the night to yourself.
+- **Retries race the run that counted.** A second sitting of the same
+  night races tonight's first — same dice, same table, until your first
+  different choice sends the two nights apart.
+- **The end screen settles it.** Won or lost, the last line calls the
+  head-to-head: how the chair's night ended, and by how much you took
+  it — or didn't.
+- All of it stays in your pocket: the recording never leaves the device,
+  and the chair only ever holds your own past runs.
+
 ## v0.13.1 — "The purse at the counter" (2026-07-21)
 
 - **Your money follows you into the shop.** The counter's action bar —
