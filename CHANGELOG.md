@@ -1,5 +1,16 @@
 # House of Dice — what changed at the table
 
+## v0.14.1 — "Sit back down" (2026-07-22)
+
+- **The second sitting is one tap now.** When tonight's own run settles,
+  the end screen and the nightly offer both hold the seat open — sit
+  back down and race the empty chair's first sitting directly, instead
+  of detouring through a fresh deal to find the table again.
+- **And the button says which table it means.** It sits next to the
+  plain play-again button, so it wears the night's № and the promise —
+  same dice as your first sitting, the empty chair to race. The plain
+  button deals a fresh night, as ever.
+
 ## v0.14.0 — "The empty chair" (2026-07-22)
 
 - **Tonight's Table keeps a chair for last night's you.** Finish the
