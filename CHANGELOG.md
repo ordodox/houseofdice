@@ -1,5 +1,22 @@
 # House of Dice — what changed at the table
 
+## v0.15.0 — "The ink tells the truth" (2026-08-05)
+
+- **Fresh Ink shows its hand before you spend it.** With the ink in your
+  pocket, every entry it could reopen wears the real number — what a
+  rewrite pays with the dice as they lie, reduced pay included. The old
+  written score never matched what the ink delivered; now the honest
+  figure sits right on the drawn line.
+- **And when a rewrite would take the round, the entry says so** — a
+  quiet inked glow, only ever shown while the ink is actually in hand.
+- **No more dying with the rescue in your pocket.** A final write that
+  would end the night now stops at a confirmation first — and the panel
+  names every out you still hold: a Fresh Ink (and the exact entry it
+  would save with, when one does), a Spare Roll, a Last Call. The old
+  guard — "another entry would take this round" — still stands; this
+  one catches the quieter death, where nothing on the table saves you
+  but something in your pocket might.
+
 ## v0.14.1 — "Sit back down" (2026-07-22)
 
 - **The second sitting is one tap now.** When tonight's own run settles,
