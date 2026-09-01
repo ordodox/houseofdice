@@ -1,5 +1,16 @@
 # House of Dice — what changed at the table
 
+## v0.15.2 — "The Owner's wall is his table" (2026-09-01)
+
+- **Beating the Owner no longer closes bribery for the rest of the
+  night.** Once you took the stairs, every later table refused all
+  bribes: the Fold offer vanished and the last-write save stopped
+  firing — a Standing Arrangement dead in hand for the whole endless
+  run. Found in a counted act-28 record night that ended at an
+  ordinary table with the charm held and the money there. The Owner's
+  own table is still never for sale; every table after him deals as
+  usual.
+
 ## v0.15.1 — "Her hold ends with the round" (2026-09-01)
 
 - **The Landlady's suspension no longer follows you to the counter.**
