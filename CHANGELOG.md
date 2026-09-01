@@ -1,5 +1,21 @@
 # House of Dice — what changed at the table
 
+## v0.15.1 — "Her hold ends with the round" (2026-09-01)
+
+- **The Landlady's suspension no longer follows you to the counter.**
+  Her rule — held charms do nothing at her table — used to stay in
+  force through the reward, the shop, and the hallway after her round,
+  because the round number only turns when you sit at the next table.
+  Deep Pockets counted for nothing at the dealer's counter right after
+  beating her; every passive charm was silently off there. Her hold now
+  ends the moment the round does.
+- **The fold offer stays on the table when you can't cover it.** With a
+  Standing Arrangement in hand but a purse too thin for the quote, the
+  Fold button used to vanish outright — reading like the arrangement
+  itself had lapsed. The quote now stays visible, just disabled, and
+  says plainly that it's the money. (At the Landlady's table it is
+  still gone — her rule, working as written.)
+
 ## v0.15.0 — "The ink tells the truth" (2026-08-05)
 
 - **Fresh Ink shows its hand before you spend it.** With the ink in your
