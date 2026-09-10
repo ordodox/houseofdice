@@ -1,6 +1,19 @@
 # House of Dice — what changed at the table
 
-## v0.15.2 — "The Owner's wall is his table" (2026-09-01)
+## v0.16.0 — "The bribe buys the pass, not the page" (2026-09-10)
+
+- **A bought round leaves nothing in the book — not even the score.**
+  Folding a table, or letting the last-write save fire, now voids the
+  points that round had written into the night's total. The pass is
+  real: the run goes on, the book turns, nothing else changes — but the
+  bought round's ink comes back out. Score carried in on momentum was
+  last round's ink and stands. The log says what was blotted, to the
+  point.
+- Why: with bribes alive again in the endless run (v0.15.2, working as
+  intended), a gold bag paid the flat fold price forever — a counted
+  night bought forty straight tables from act 28 to act 40 and banked
+  1.6M of a 2.13M "record" on rounds it lost 25× over. Scores are for
+  tables you beat. The fold's price and its job as a save are untouched.
 
 - **Beating the Owner no longer closes bribery for the rest of the
   night.** Once you took the stairs, every later table refused all
