@@ -1,5 +1,25 @@
 # House of Dice — what changed at the table
 
+## v0.17.0 — "Scores are for tables you beat" (2026-09-17)
+
+- **An unbeaten table keeps no score — lost and walked tables now blot
+  their ink like bought ones.** Since v0.16.0 a bought round's points
+  came back out of the night's total, but a LOST round's stood: a
+  counted act-45 night banked 655,502 of a 1,036,205 "record" on the
+  very round the run died on — 652,833 of it a single leveled upper
+  bonus paid moments before the fall. Dying was strictly better for
+  the record than folding. Now the round's fresh ink comes back out
+  wherever the night ends at a table still in play: the last-write
+  loss, the full-ledger loss, and a mid-round walkout. The log says
+  what was blotted; the round still shows the score it saw. A
+  between-rounds walkout keeps everything — that ink was a win's.
+- **The wire now counts the void.** The count room's reconstructed
+  run score never learned v0.16.0's ink void, so bought-round points
+  still counted on the wire (the same act-45 night logged 4,676,145
+  against the game's own 1,036,205). Fixed and backfilled; wire and
+  records now agree to the point, and pre-void nights keep the
+  numbers their own rules produced.
+
 ## v0.16.1 — "The pen waits for the Last Call" (2026-09-17)
 
 - **The last write asks before it folds the table.** With a bribe on
