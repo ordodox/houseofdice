@@ -1,5 +1,17 @@
 # House of Dice — what changed at the table
 
+## v0.16.1 — "The pen waits for the Last Call" (2026-09-17)
+
+- **The last write asks before it folds the table.** With a bribe on
+  offer (a Standing Arrangement in hand and the money to cover it) and
+  a Last Call in the pocket, signing a final write that misses the
+  target used to fire the arrangement silently: the dealer paid, the
+  round's ink came back out, and the Last Call sat unused in the
+  pocket. The table now asks first — pay the quoted fold, look again,
+  or burn the Last Call for one more turn and land the same write in
+  one tap. Without a Last Call in the pocket the silent save stands,
+  as designed: a table with a bribe on offer owes no death notice.
+
 ## v0.16.0 — "The bribe buys the pass, not the page" (2026-09-10)
 
 - **A bought round leaves nothing in the book — not even the score.**
