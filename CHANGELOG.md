@@ -1,5 +1,17 @@
 # House of Dice — what changed at the table
 
+## v0.17.1 — "The board re-reads its own history" (2026-09-17)
+
+- **Old records are rescored under the current rules.** Every record on
+  the board and the recent shelf that still carries its trace is
+  re-totaled on load: an unbeaten table keeps no score, whichever
+  build's rules it was stamped under — bought tables void (the pre-fix
+  Standing Arrangement coasts included), and so does the round a night
+  died or walked out on. The board re-ranks accordingly. A record whose
+  trace was shed for space keeps its stamped number — there is nothing
+  left to recompute from. The count room's board was rescored the same
+  way, so the wire and the shelf tell one story.
+
 ## v0.17.0 — "Scores are for tables you beat" (2026-09-17)
 
 - **An unbeaten table keeps no score — lost and walked tables now blot
